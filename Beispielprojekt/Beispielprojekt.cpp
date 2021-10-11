@@ -8,7 +8,7 @@ public:
 	GameWindow()
 		: Window(800, 600)
 	{
-		set_caption("Gosu Tutorial mit Git 345");
+		set_caption("Gosu Tutorial mit Git 345999");
 	}
 
 	// Wird bis zu 60x pro Sekunde aufgerufen.
